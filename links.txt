@@ -1,0 +1,9 @@
+https://www.coursera.org/learn/convolutional-neural-networks/lecture/gjckG/one-shot-learning
+
+
+
+https://www.youtube.com/watch?v=D6Y1DZ82f70
+
+https://sorenbouma.github.io/blog/oneshot/
+
+https://docs.google.com/presentation/d/1zfYECa32xrsLWKuC0b3MQK53fOqobaTHoMYGpk26sbk/edit?usp=sharing
